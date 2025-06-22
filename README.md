@@ -1,5 +1,7 @@
 🧭 BiteBazaar
 Bite Bazaar is a visually engaging and dynamic food discovery web application built using React, Vite, Tailwind CSS, and Framer Motion. It showcases a curated gallery of international dishes, making it ideal for food bloggers, culinary explorers, or anyone curious about global cuisine.
+deployedlink:https://bite-bazaar-chi.vercel.app/
+![image](https://github.com/user-attachments/assets/54b7bf38-357d-48c0-87f8-c8b42ae2499f)
 
 🌟 Features
 🍲 International Dish Gallery – Displays a collection of traditional foods from around the world with images.
