@@ -36,7 +36,7 @@ bash
 Copy
 Edit
 https://github.com/nithishdurnala-19/BiteBazaar.git
-cd taste-voyage
+cd taste-BiteBaazer
 Install dependencies
 
 bash
@@ -98,5 +98,3 @@ npm run build	Build app for production
 npm run lint	Run linter checks
 npm run preview	Preview production build
 
-📜 License
-This project is open source and available under the MIT License.
